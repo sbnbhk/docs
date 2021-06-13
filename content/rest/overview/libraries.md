@@ -8,6 +8,8 @@ versions:
   free-pro-team: '*'
   enterprise-server: '*'
   github-ae: '*'
+topics:
+  - API
 ---
 
 <div class="jumbotron libraries-jumbotron">
@@ -17,7 +19,7 @@ versions:
   <div class="octokit-links"><br/>
      <div class="octokit-language"> <span>Ruby → </span><a href="https://github.com/octokit/octokit.rb">octokit.rb</a></div><br/>
      <div class="octokit-language"><span>.NET → </span> <a href="https://github.com/octokit/octokit.net">octokit.net</a></div><br/>
-     <div class="octokit-language"><span>JavaScript → </span> <a href="https://github.com/octokit/rest.js">octokit/rest.js</a></div><br/>
+     <div class="octokit-language"><span>JavaScript → </span> <a href="https://github.com/octokit/octokit.js">octokit/octokit.js</a></div><br/>
   </div>
 </div>
 
